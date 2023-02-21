@@ -9,6 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    let titleLbl : UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
         print("push to git")
